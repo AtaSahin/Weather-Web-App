@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  background-color: #61dafb;
+  height: 100vh;
+}
+
+.Board {
+  border: 2px solid blue;
+  width: 500px;
+  height: 500px;
+  color: yellowgreen;
+  margin: 0 auto;
+}
+.inputArea {
+  width: 70%;
+  height: 7%;
+}
+.divButton {
+  margin-top: 20px;
+  right: 20px;
+}
